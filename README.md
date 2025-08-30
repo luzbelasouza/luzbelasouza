@@ -4,11 +4,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/luzbelasouza?style=for-the-badge) 
 ![Profile views](https://komarev.com/ghpvc/?username=luzbelasouza&color=blueviolet&style=for-the-badge)
 
-![Status](https://img.shields.io/badge/🎓-Engenharia_de_Software_5º_Período-blue?style=for-the-badge)  
-![Creative](https://img.shields.io/badge/💡-Creative_Technologist-yellow?style=for-the-badge)  
-![Pesquisa](https://img.shields.io/badge/🧑‍💻-Tecnologias_Emergentes-red?style=for-the-badge)  
-![Objetivo](https://img.shields.io/badge/✨-Transformar_Ideias_em_Produtos_Globais🌎-green?style=for-the-badge)
-
 ## 💬 Um pouco sobre mim  
 Uma Artista Visual e pesquisadora incansável.
 Tenho **quase 20 anos de experiência criativa** em moda, design e artes visuais.  
@@ -18,6 +13,11 @@ Atualmente sou **estudante de Engenharia de Software** e pesquiso intensamente o
 
 ✨ Minha visão: IA não substitui a criatividade humana, mas **amplifica ideias**.  
 📓 Meu objetivo: **documentar cada passo** mostrando evolução, transparência e consistência de resultados.  
+
+![Status](https://img.shields.io/badge/🎓-Engenharia_de_Software_5º_Período-blue?style=for-the-badge)  
+![Creative](https://img.shields.io/badge/💡-Creative_Technologist-yellow?style=for-the-badge)  
+![Pesquisa](https://img.shields.io/badge/🧑‍💻-Tecnologias_Emergentes-red?style=for-the-badge)  
+![Objetivo](https://img.shields.io/badge/✨-Transformar_Ideias_em_Produtos_Globais🌎-green?style=for-the-badge)
 
 ## 🚀 Projetos em destaque  
 
