@@ -14,7 +14,8 @@ Atualmente sou **estudante de Engenharia de Software** e pesquiso intensamente o
 ✨ Minha visão: IA não substitui a criatividade humana, mas **amplifica ideias**.  
 📓 Meu objetivo: **documentar cada passo** mostrando evolução, transparência e consistência de resultados.  
 
-![Status](https://img.shields.io/badge/🎓-Engenharia_de_Software_5º_Período-blue?style=for-the-badge)  
+![Status](https://img.shields.io/badge/🎓-Engenharia_de_Software_5º_Período-blue?style=for-the-badge)
+![Estácio de Sá](https://img.shields.io/badge/Est%C3%A1cio%20de%20S%C3%A1-005BAC?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Creative](https://img.shields.io/badge/💡-Creative_Technologist-yellow?style=for-the-badge)  
 ![Pesquisa](https://img.shields.io/badge/🧑‍💻-Tecnologias_Emergentes-red?style=for-the-badge)  
 ![Objetivo](https://img.shields.io/badge/✨-Transformar_Ideias_em_Produtos_Globais🌎-green?style=for-the-badge)
