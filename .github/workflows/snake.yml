@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule: # roda automaticamente 1x por dia
+    - cron: "0 0 * * *"
+  workflow_dispatch: # permite rodar manualmente
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: luzbelasouza
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
