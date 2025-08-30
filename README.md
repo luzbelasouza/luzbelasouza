@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=luzbelasouza&color=blueviolet&style=for-the-badge)
 
 ## 💬 Um pouco sobre mim  
-
+Uma Artista Visual e pesquisadora incansável.
 Tenho **quase 20 anos de experiência criativa** em moda, design e artes visuais.  
 Há 6 anos lidero a **Direção de Arte da [Revista Creator](https://revistacreator.com)**, unindo mídias sociais e curadoria editorial.  
 
