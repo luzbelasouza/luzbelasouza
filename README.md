@@ -39,9 +39,5 @@ Quero atuar em times que valorizem **aprendizado contínuo, criatividade e inova
 
 ## 🐍 Minhas contribuições no GitHub
 
-![Snake animation](https://github.com/luzbelasouza/luzbelasouza/blob/output/github-contribution-grid-snake.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzbelasouza&layout=compact&theme=radical)  
-
-
+![Snake animation](https://raw.githubusercontent.com/luzbelasouza/luzbelasouza/snake-output/assets/snake.svg)
 ---
