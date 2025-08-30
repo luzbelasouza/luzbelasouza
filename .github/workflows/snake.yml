@@ -2,14 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   
-  workflow_dispatch:       
+    - cron: "0 0 * * *"   # roda 1x por dia (00:00 UTC)
+  workflow_dispatch:       # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write      
+      contents: write      # importante: permite commitar na main
 
     steps:
       - name: Checkout
