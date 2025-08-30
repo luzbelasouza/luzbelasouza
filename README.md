@@ -20,7 +20,7 @@ Atualmente sou **estudante de Engenharia de Software** e pesquiso intensamente o
 
 🔹 **[Art & News](https://github.com/luzbelasouza/art-news)** → Protótipo de site de notícias sobre o mundo das artes (Next.js + TailwindCSS).  
 🔹 **[Codificação Criativa](https://github.com/luzbelasouza/codificacao-criativa)** → Experimentos com arte generativa e Processing/P5.js.  
-🔹 **[Estudos de Ferramentas IA](https://github.com/luzbelasouza/estudos-ferramentas-ia)** → Repositório onde documento e comparo ferramentas de IA para desenvolvimento.  
+🔹 **[Estudos de Ferramentas IA](https://github.com/luzbelasouza/estudos-ferramentas-ia)** → Repositório onde documento e comparo ferramentas de IA.  
 🔹 **[Rede Social Literaria](https://github.com/luzbelasouza/leitures-rede-social-literaria)** → MVP funcional de uma plataforma social para leitores, com posts de trechos, resenhas, áudios e ilustrações, além de sistema de seguidores, comentários e gamificação.
 
 ## 🎯 O que estou buscando  
