@@ -34,7 +34,7 @@ Quero atuar em times que valorizem **aprendizado contínuo, criatividade e inova
 🌐 [Site Pessoal](https://luzbelasouza.com.br) *(em manutenção, mas logo com novidades!)*  
 💼 [LinkedIn](https://www.linkedin.com/in/luzbelasouza/)  
 📸 Instagram: [@_missao.tech_](https://www.instagram.com/_missao.tech_/)  
-🎨 Portfólio Criativo: [Processing]([https://revistacreator.com](https://openprocessing.org/user/457297?view=sketches))  
+🎨 Portfólio Criativo: [Processing](https://openprocessing.org/user/457297?view=sketches)  
 
 
 ## 📊 Estatísticas do GitHub  
