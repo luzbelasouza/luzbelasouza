@@ -34,8 +34,7 @@ Quero atuar em times que valorizem **aprendizado contínuo, criatividade e inova
 🌐 [Site Pessoal](https://luzbelasouza.com.br) *(em manutenção, mas logo com novidades!)*  
 💼 [LinkedIn](https://www.linkedin.com/in/luzbelasouza/)  
 🎨 Portfólio - coding a visual : [Processing](https://openprocessing.org/user/457297?view=sketches)  
-📌 Instagram da Artista: [@studio.luzbela](https://www.instagram.com/studio.luzbela/) 
-📌 Instagram da Engenheira: [@_missao.tech_](https://www.instagram.com/_missao.tech_/)  
+📌 Instagram: da Artista [@studio.luzbela](https://www.instagram.com/studio.luzbela/) | da Engenheira: [@_missao.tech_](https://www.instagram.com/_missao.tech_/)  
 
 
 ## 📊 Estatísticas do GitHub  
