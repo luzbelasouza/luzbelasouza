@@ -4,7 +4,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/luzbelasouza?style=for-the-badge) 
 ![Profile views](https://komarev.com/ghpvc/?username=luzbelasouza&color=blueviolet&style=for-the-badge)
 
-
 ## 💬 Um pouco sobre mim  
 
 Tenho **quase 20 anos de experiência criativa** em moda, design e artes visuais.  
@@ -14,7 +13,6 @@ Atualmente sou **estudante de Engenharia de Software** e pesquiso intensamente o
 
 ✨ Minha visão: IA não substitui a criatividade humana, mas **amplifica ideias**.  
 📓 Meu objetivo: **documentar cada passo** mostrando evolução, transparência e consistência de resultados.  
-
 
 ## 🚀 Projetos em destaque  
 
@@ -28,7 +26,6 @@ Atualmente sou **estudante de Engenharia de Software** e pesquiso intensamente o
 Atualmente em busca da minha **primeira oportunidade como estagiária** em Engenharia de Software.  
 Quero atuar em times que valorizem **aprendizado contínuo, criatividade e inovação**.  
 
-
 ## 📫 Onde me encontrar  
 
 🌐 [Site Pessoal](https://luzbelasouza.com.br) *(em manutenção, mas logo com novidades!)*  
@@ -36,16 +33,15 @@ Quero atuar em times que valorizem **aprendizado contínuo, criatividade e inova
 🎨 Portfólio - coding visual : [Processing](https://openprocessing.org/user/457297?view=sketches)  
 📌 Instagram - da Artista [@studio.luzbela](https://www.instagram.com/studio.luzbela/) da Engenheira: [@_missao.tech_](https://www.instagram.com/_missao.tech_/)  
 
+## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luzbelasouza&show_icons=true&theme=dracula)
 
-![Luzbela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luzbelasouza&show_icons=true&theme=radical)  
+## 🐍 Minhas contribuições no GitHub
+
+![Snake animation](https://github.com/luzbelasouza/luzbelasouza/blob/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzbelasouza&layout=compact&theme=radical)  
 
-
-## 🔥 Atividade e Contribuições  
-
-![Snake animation](https://github.com/luzbelasouza/luzbelasouza/blob/output/github-contribution-grid-snake.svg)  
 
 ---
