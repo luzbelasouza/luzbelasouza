@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Luzbela (Bela),
+# 👋 Olá, me chamo Bela,
 
 ![GitHub followers](https://img.shields.io/github/followers/luzbelasouza?style=for-the-badge) 
 ![GitHub stars](https://img.shields.io/github/stars/luzbelasouza?style=for-the-badge) 
